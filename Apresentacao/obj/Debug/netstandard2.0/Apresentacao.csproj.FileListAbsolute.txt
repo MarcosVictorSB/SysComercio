@@ -1,0 +1,5 @@
+C:\Users\Marcos Victor\source\repos\SysComercio\Apresentacao\bin\Debug\netstandard2.0\Dados.dll
+C:\Users\Marcos Victor\source\repos\SysComercio\Apresentacao\bin\Debug\netstandard2.0\Negocio.dll
+C:\Users\Marcos Victor\source\repos\SysComercio\Apresentacao\obj\Debug\netstandard2.0\Apresentacao.csprojAssemblyReference.cache
+C:\Users\Marcos Victor\source\repos\SysComercio\Apresentacao\obj\Debug\netstandard2.0\Apresentacao.AssemblyInfoInputs.cache
+C:\Users\Marcos Victor\source\repos\SysComercio\Apresentacao\obj\Debug\netstandard2.0\Apresentacao.AssemblyInfo.cs

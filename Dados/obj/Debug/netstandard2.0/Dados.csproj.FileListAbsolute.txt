@@ -1,0 +1,4 @@
+C:\Users\Marcos Victor\source\repos\SysComercio\Dados\bin\Debug\netstandard2.0\Dados.deps.json
+C:\Users\Marcos Victor\source\repos\SysComercio\Dados\bin\Debug\netstandard2.0\Dados.dll
+C:\Users\Marcos Victor\source\repos\SysComercio\Dados\obj\Debug\netstandard2.0\Dados.AssemblyInfoInputs.cache
+C:\Users\Marcos Victor\source\repos\SysComercio\Dados\obj\Debug\netstandard2.0\Dados.AssemblyInfo.cs
